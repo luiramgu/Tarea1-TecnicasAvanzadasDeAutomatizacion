@@ -1,0 +1,39 @@
+#txtlistapalabras{
+width: 500px;
+}
+
+#wrapper{
+
+    position:absolute;
+    width:75%;
+    float: left;   
+}
+
+a{
+    margin-left: 20%;
+    color: blanchedalmond;
+    font-size: 23px;
+}
+
+#nav{
+    position: fixed;
+    float: left;
+    width: 15%;
+    top:10px;
+    right: 1px;
+    background-color: black;
+    height: 100%;
+    padding-top: 20%;
+
+}
+.border{
+    margin: 20px 0px;
+    border: solid black 2px;
+    width: 100%;
+}
+
+.navegador{
+    width: 100%; 
+    height: 50px; 
+    border: solid black 2px;
+}
